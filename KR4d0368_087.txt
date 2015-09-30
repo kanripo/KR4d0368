@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 本堂集
+#+DATE: 2015-08-25 00:06:20.566441
+#+PROPERTY: ID KR4d0368
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十七[原闕]
+<pb:KR4d0368_WYG_087-1a>¶
+欽定四庫全書¶
+　本堂集巻八十七¶
+　　　　　　　　　　　　　宋　陳著　撰¶
+原闕¶
